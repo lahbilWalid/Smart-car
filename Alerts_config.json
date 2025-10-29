@@ -1,0 +1,39 @@
+{
+  "ALERTS": {
+    "Obstacle détecté": 1,
+    "Place indisponible": 3,
+    "Erreur de navigation": 1,
+    "Problème de communication": 2,
+    "Temps d attente excessif": 2,
+    "Manoeuvre incorrecte": 2,
+    "Fin de stationnement": 3
+  },
+  "ICONS":{
+    "Obstacle détecté": "🚧",
+        "Place indisponible": "❌",
+        "Erreur de navigation": "🧭",
+        "Problème de communication": "📡",
+        "Temps d attente excessif": "⏳",
+        "Manoeuvre incorrecte": "🔄",
+        "Fin de stationnement": "✅"
+    },
+    "SONS": {
+        "Obstacle détecté": "obstacle_alert.wav",
+        "Place indisponible": "place_unavailable.wav",
+        "Erreur de navigation": "navigation_error.wav",
+        "Problème de communication": "communication_lost.wav",
+        "Temps d attente excessif": "timeout_alert.wav",
+        "Manoeuvre incorrecte": "maneuver_warning.wav",
+        "Fin de stationnement": "parking_complete.wav"
+    },
+    "SENSORS": {
+      "Leddar Vu8": "Obstacle détecté",
+    "Caméra AXIS": "Place indisponible",
+    "GPS": "Erreur de navigation",
+    "Module 4G": "Problème de communication",
+    "Capteur de volant": "Manoeuvre incorrecte",
+    "Caméra intérieure": "Temps d attente excessif",
+    "Centrale inertielle": "Fin de stationnement"
+    }
+}
+

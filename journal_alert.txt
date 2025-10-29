@@ -1,0 +1,737 @@
+2025-08-14 17:29:06 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-08-14 17:29:09 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-08-14 17:29:11 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-08-19 00:33:38 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-08-20 14:59:39 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-08-22 16:12:33 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-08-22 16:12:35 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-08-22 16:12:36 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-08-22 16:12:39 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-08-22 16:12:40 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-08-22 16:12:42 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-08-22 16:58:33 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-08-22 16:58:34 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-08-22 16:58:40 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-08-22 16:58:42 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-08-22 16:58:46 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-08-22 16:58:47 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-08-22 16:58:48 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-08-22 16:58:53 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-08-22 16:58:54 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-08-22 16:58:58 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-08-22 16:59:01 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-08-22 16:59:05 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-08-22 17:02:03 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-08-22 17:02:04 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-08-22 17:02:08 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-08-22 17:02:10 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-08-22 17:02:13 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-08-22 17:02:22 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-08-22 17:02:48 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-08-22 17:03:06 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-08-22 17:03:08 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-08-22 17:03:17 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-08-22 17:03:26 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-08-22 17:03:29 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-08-22 17:03:32 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-08-22 17:03:34 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-08-22 17:03:35 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-08-22 17:03:38 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-08-22 17:03:40 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-08-22 17:03:43 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-08-22 17:03:45 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-08-22 17:03:47 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-08-22 17:03:53 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-08-22 17:03:57 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-08-22 17:04:02 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-08-22 17:04:05 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-08-22 17:05:18 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-08-22 17:05:39 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-08-22 17:05:40 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-08-22 17:05:40 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-08-22 17:06:11 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-08-22 17:06:13 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-08-22 17:06:15 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-08-22 17:06:15 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-08-22 17:06:17 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-08-22 17:06:23 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-08-22 17:06:25 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-08-22 17:06:30 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-08-22 17:06:31 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-08-22 17:06:31 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-08-22 17:06:39 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-08-22 17:06:39 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-08-22 17:06:39 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-08-22 17:06:39 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-08-22 17:07:52 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-08-22 17:07:53 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-08-22 17:10:08 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-08-22 17:11:12 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-08-22 17:11:17 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-08-22 17:13:33 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-08-22 17:13:34 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-08-22 17:35:38 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-08-22 17:35:40 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-08-22 17:36:55 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-08-22 17:36:57 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-08-22 17:37:00 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-08-22 17:37:01 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-08-22 17:37:04 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-08-22 17:38:13 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-08-22 17:38:17 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-08-22 17:38:18 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-08-22 17:38:23 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-08-22 17:38:24 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-08-22 17:38:25 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-08-22 17:40:47 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-08-22 17:40:50 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-08-22 17:40:51 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-08-22 17:44:08 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-08-22 17:44:10 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-08-22 17:44:13 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-08-22 17:44:14 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-08-22 17:47:24 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-08-22 17:47:26 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-08-22 17:47:28 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-08-22 17:47:30 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-08-22 17:47:32 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-08-22 17:47:33 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-08-22 17:47:34 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-08-22 17:47:36 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-08-22 17:47:37 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-08-22 17:47:39 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-08-22 17:47:40 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-08-22 17:47:42 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-08-22 17:47:43 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-08-22 17:47:45 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-08-22 17:47:46 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-08-25 15:09:25 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-08-25 15:09:27 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-08-25 15:09:36 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-08-25 15:09:40 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-08-25 15:09:40 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-08-25 15:09:42 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-08-25 15:09:43 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-08-25 15:09:44 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-08-25 15:09:46 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-08-25 15:09:48 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-08-25 15:09:51 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-08-25 15:09:54 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-08-25 15:09:56 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-08-25 15:11:08 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-08-25 15:11:10 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-08-25 15:11:11 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-08-25 15:11:12 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-08-25 15:11:14 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-08-25 15:11:14 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-08-25 15:11:17 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-08-25 15:11:17 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-08-25 15:22:34 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-08-25 15:22:37 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-08-25 15:22:42 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-08-25 15:22:45 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-08-25 15:22:48 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-08-25 15:22:53 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-08-25 15:22:56 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-08-25 15:23:10 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-08-25 15:23:11 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-08-25 15:23:12 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-08-25 15:47:36 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-08-25 15:48:11 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-08-25 15:48:22 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-08-25 15:52:44 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-08-25 15:52:55 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-08-25 15:52:56 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-08-25 15:52:57 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-08-25 15:52:58 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-08-25 16:11:55 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-08-25 16:13:47 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-08-25 16:13:50 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-08-25 16:14:03 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-08-25 16:14:05 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-08-25 16:14:09 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-08-25 16:14:10 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-08-25 16:16:32 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-08-25 16:17:10 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-08-25 16:17:14 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-08-25 16:17:16 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-08-25 16:17:17 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-08-25 16:17:19 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-08-25 16:17:22 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-08-25 16:17:22 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-08-25 16:17:27 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-08-25 16:17:29 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-08-25 16:28:23 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-08-25 16:28:53 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-08-25 16:28:54 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-08-25 18:49:40 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-08-26 17:52:12 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-08-26 17:52:27 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-08-26 17:54:09 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-08-26 17:54:11 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-08-26 17:54:11 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-08-26 17:54:12 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-08-26 17:54:13 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-08-26 17:54:15 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-08-26 17:54:16 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-08-26 17:56:08 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-09-18 16:14:11 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-18 16:14:33 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-18 16:14:38 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-09-18 16:14:40 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-09-18 16:14:46 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-09-18 16:14:47 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-18 16:14:49 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-18 16:14:54 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-09-18 16:14:56 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-09-18 16:14:58 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-09-18 16:14:59 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-09-18 16:15:11 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-09-18 16:16:45 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-09-18 16:16:53 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-09-18 16:16:59 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-09-18 16:16:59 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-09-18 16:17:13 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-09-18 16:19:31 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-09-18 16:19:34 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-18 16:19:38 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-09-18 16:19:44 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-09-18 16:19:53 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-09-18 16:19:57 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-09-18 16:19:58 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-18 16:21:11 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-18 16:21:13 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-09-18 16:21:16 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-09-18 16:21:17 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-09-18 16:22:16 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-09-18 16:43:55 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-18 16:50:12 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-18 16:50:16 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-09-18 17:00:46 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-09-18 17:00:49 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-18 17:01:37 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-09-18 17:01:38 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-09-18 17:01:41 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-09-18 17:01:42 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-09-18 17:01:43 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-09-19 12:02:37 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-09-19 12:02:47 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-19 12:02:51 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-19 12:03:00 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-09-19 12:03:05 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-19 12:03:06 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-09-19 12:03:09 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-09-19 12:03:11 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-09-19 12:03:16 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-09-19 12:03:17 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-09-19 12:03:21 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-09-19 12:03:21 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-09-19 12:03:49 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-09-19 12:03:54 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-09-19 12:03:56 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-09-19 12:05:10 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-09-19 12:05:16 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-09-19 12:05:19 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-09-19 12:05:24 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-09-19 12:05:26 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-09-19 15:31:18 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-09-19 15:31:21 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-09-19 15:31:22 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-19 17:16:07 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-09-19 17:16:11 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-19 17:16:13 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-09-19 17:16:16 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-09-19 17:16:19 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-09-19 17:16:21 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-09-19 17:16:23 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-09-19 17:16:33 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-09-19 17:16:41 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-09-19 17:18:59 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-19 17:19:04 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-09-19 17:19:05 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-09-19 17:19:10 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-09-19 17:19:13 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-09-19 17:19:18 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-19 17:19:20 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-19 17:19:24 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-09-19 17:19:28 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-09-19 17:19:34 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-09-19 17:19:36 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-09-22 14:47:35 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-09-22 14:47:37 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-09-22 14:47:40 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-09-22 14:47:42 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-09-22 15:05:34 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-09-22 15:05:36 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-09-22 15:05:45 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-09-22 15:05:46 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-09-22 15:05:51 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-22 15:05:52 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-09-22 15:23:36 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-09-22 15:23:38 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-09-22 15:43:15 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-09-22 15:43:17 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-09-22 16:12:08 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-09-22 16:12:10 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-09-23 13:58:52 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-09-23 13:59:02 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-09-23 13:59:07 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-09-23 13:59:11 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-09-23 13:59:26 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-09-23 13:59:54 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-09-23 13:59:57 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-23 13:59:58 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-23 14:13:14 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-23 14:13:16 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-09-23 14:58:49 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-09-23 14:58:52 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-09-23 14:59:00 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-09-23 15:04:09 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-09-23 15:04:13 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-09-23 15:04:23 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-23 15:05:41 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-09-23 15:06:11 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-23 15:06:13 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-09-23 15:06:49 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-23 15:06:51 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-09-23 15:10:44 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-09-23 15:11:43 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-09-23 15:29:16 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-09-23 15:29:20 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-23 15:29:23 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-09-23 15:29:25 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-09-23 15:29:26 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-09-23 15:42:42 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-09-23 15:42:44 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-23 15:42:46 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-09-23 15:42:49 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-09-23 15:42:51 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-09-23 15:44:00 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-09-23 15:44:02 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-09-23 15:44:05 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-09-23 15:44:09 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-09-23 15:44:19 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-09-23 15:44:23 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-09-23 15:44:23 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-09-23 15:54:52 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-23 16:56:58 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-09-23 16:57:01 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-09-23 16:57:02 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-23 16:57:04 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-09-23 16:57:05 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-09-23 16:57:07 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-09-23 16:57:07 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-09-23 16:57:08 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-09-23 16:57:09 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-09-23 16:57:10 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-09-23 16:57:11 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-23 16:57:11 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-09-23 16:57:13 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-09-23 16:57:13 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-09-23 16:57:14 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-09-23 16:57:15 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-09-23 16:59:32 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-09-23 16:59:33 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-09-23 16:59:34 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-23 16:59:35 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-09-23 16:59:37 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-09-23 16:59:37 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-09-23 16:59:38 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-09-23 16:59:39 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-09-23 16:59:40 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-09-23 16:59:40 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-23 16:59:42 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-23 16:59:44 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-09-23 16:59:45 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-09-23 16:59:47 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-09-23 16:59:48 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-09-23 17:00:58 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-09-23 17:00:58 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-09-23 17:00:59 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-23 17:01:00 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-09-23 17:01:01 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-09-23 17:01:01 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-09-23 17:01:03 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-09-23 17:01:04 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-09-23 17:01:05 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-09-23 17:03:03 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-09-23 17:03:04 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-09-23 17:03:05 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-09-23 17:03:06 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-09-23 17:03:07 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-23 17:03:07 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-09-23 17:03:08 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-09-23 17:03:09 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-09-23 17:03:11 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-09-23 17:03:11 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-09-23 17:03:12 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-09-23 17:03:12 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-23 17:03:13 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-09-23 17:03:13 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-09-23 17:05:35 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-09-23 17:05:37 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-09-23 17:05:39 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-09-23 17:05:41 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-09-23 17:05:41 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-23 17:05:42 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-09-23 17:05:43 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-09-23 17:05:44 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-09-23 17:05:45 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-09-23 17:05:46 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-09-23 17:05:47 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-23 17:05:48 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-09-23 17:05:48 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-09-23 17:06:30 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-09-23 17:06:31 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-09-23 17:06:31 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-09-23 17:06:32 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-23 17:06:32 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-09-23 17:06:33 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-09-23 17:18:50 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-09-23 17:18:52 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-09-23 17:18:52 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-09-23 17:18:53 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-09-23 17:21:57 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-09-23 17:21:59 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-23 17:22:01 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-09-23 17:22:17 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-23 17:22:20 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-09-23 17:22:21 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-09-23 17:22:22 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-09-23 17:22:23 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-09-23 17:22:26 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-23 17:22:28 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-09-23 17:22:29 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-09-23 17:22:31 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-09-23 17:30:46 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-09-23 17:31:03 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-09-23 17:31:12 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-09-23 17:31:13 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-23 17:48:40 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-09-23 17:48:42 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-09-23 17:48:43 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-09-23 17:48:44 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-09-23 17:48:45 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-23 17:48:45 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-09-23 17:48:46 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-09-23 17:48:47 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-09-23 17:48:47 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-09-23 17:49:21 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-09-23 17:49:22 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-09-23 17:49:24 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-23 17:49:25 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-23 17:49:27 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-09-23 17:49:29 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-09-23 17:49:30 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-09-23 17:49:33 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-09-23 17:49:35 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-09-23 17:49:37 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-23 17:49:38 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-09-25 11:35:47 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-09-25 11:35:52 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-09-25 11:35:53 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-09-25 11:35:55 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-09-25 11:35:56 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-09-25 11:37:27 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-09-25 11:37:29 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-09-25 11:37:31 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-09-25 11:46:09 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-09-25 12:16:09 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-09-25 12:16:12 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-25 12:16:14 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-09-25 12:16:16 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-09-25 12:16:17 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-09-25 12:16:19 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-09-25 12:16:20 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-25 12:16:21 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-09-25 12:16:23 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-09-25 12:20:46 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-09-25 12:20:55 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-09-25 12:21:01 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-09-25 12:23:54 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-09-25 12:23:57 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-09-25 12:23:57 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-09-25 12:24:04 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-09-25 12:24:08 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-09-25 12:24:08 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-09-25 12:24:10 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-09-25 12:24:12 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-09-25 12:24:13 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-09-25 12:24:14 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-09-25 16:19:00 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-26 16:16:34 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-09-26 16:16:44 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-09-26 16:16:45 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-09-26 16:16:48 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-09-26 16:16:49 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-09-26 16:16:50 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-26 16:16:52 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-09-26 16:16:53 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-09-26 16:16:55 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-09-26 16:28:48 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-09-26 22:57:23 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-09-26 22:57:26 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-09-26 22:57:28 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-09-26 22:57:29 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-09-26 22:57:30 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-09-26 22:57:31 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-26 22:57:32 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-09-26 22:57:33 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-09-29 14:35:14 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-29 14:35:17 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-09-29 14:35:19 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-09-29 14:35:21 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-09-29 14:35:22 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-09-29 14:35:25 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-09-29 14:35:31 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-09-29 14:35:32 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-09-29 14:35:34 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-29 14:35:38 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-09-29 14:35:39 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-09-30 14:06:50 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-09-30 14:06:56 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-09-30 14:06:58 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-09-30 14:07:00 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-09-30 14:07:01 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-09-30 14:07:02 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-30 14:07:03 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-09-30 14:07:07 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-30 14:07:09 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-09-30 17:32:57 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-09-30 17:33:00 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-30 17:34:40 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-09-30 17:34:46 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-09-30 17:34:46 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-09-30 17:39:53 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-10-03 16:19:59 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-10-03 16:20:03 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-03 16:20:05 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-10-03 16:20:07 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-10-03 16:20:08 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-10-03 16:20:14 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-10-03 16:20:15 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-10-03 16:20:16 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-10-17 15:51:42 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-10-17 15:51:51 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-10-17 15:51:55 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-10-17 15:51:57 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-10-17 15:52:00 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-10-17 15:52:03 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-10-17 16:03:17 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-17 16:03:21 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-17 16:03:23 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-10-17 16:03:25 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-10-17 16:03:26 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-10-17 16:03:29 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-10-17 16:03:31 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-10-17 16:03:33 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-10-17 16:03:35 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-10-17 16:03:37 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-10-17 16:03:38 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-10-17 16:03:39 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-10-17 16:03:41 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-10-17 16:03:42 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-17 16:03:44 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-17 16:03:48 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-17 16:06:11 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-17 16:06:22 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-17 16:06:34 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-10-17 16:06:52 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-10-17 16:07:05 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-10-17 16:07:16 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-10-17 16:07:26 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-10-17 16:07:40 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-10-17 16:10:13 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-10-17 16:10:17 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-10-17 16:10:20 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-10-17 16:10:23 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-10-17 16:10:23 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-10-17 16:11:06 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-10-17 16:11:13 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-10-17 16:11:15 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-10-17 16:11:19 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-17 16:11:25 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-10-17 16:11:28 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-10-17 16:11:30 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-10-17 16:11:34 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-10-17 16:11:43 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-10-17 16:12:22 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-10-17 16:29:50 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-17 16:30:12 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-10-17 16:32:31 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-17 16:32:41 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-17 16:32:48 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-10-17 16:35:09 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-17 16:35:21 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-17 16:35:52 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-10-17 16:36:25 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-10-17 16:36:29 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-10-17 16:38:39 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-10-17 16:38:49 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-10-17 16:38:57 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-10-17 16:39:44 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-17 16:39:54 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-17 16:40:36 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-17 16:40:39 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-10-17 16:40:40 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-10-17 16:40:44 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-10-17 16:40:46 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-10-17 16:40:55 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-10-17 16:41:10 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-10-17 16:41:27 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-10-17 16:41:39 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-10-17 16:41:39 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-10-17 16:41:41 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-10-17 16:41:43 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-10-17 16:41:46 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-10-17 16:43:13 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-17 16:43:16 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-10-17 16:43:19 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-10-17 16:43:24 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-10-17 16:43:25 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-10-17 16:43:26 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-10-17 16:43:27 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-10-17 16:43:28 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-10-17 16:43:29 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-17 16:43:30 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-10-17 16:43:31 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-17 16:43:32 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-10-17 16:43:32 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-17 16:43:35 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-10-17 16:43:35 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-10-17 16:43:36 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-10-17 16:43:37 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-17 16:44:00 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-10-17 16:44:02 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-10-17 16:44:12 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-10-17 16:44:14 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-10-17 16:44:15 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-10-17 16:44:17 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-10-17 16:44:19 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-10-17 16:44:21 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-10-17 16:44:22 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-10-17 16:44:24 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-10-17 16:44:24 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-10-17 16:44:26 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-10-17 16:44:26 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-10-17 16:44:28 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-10-17 16:44:30 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-10-17 16:44:30 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-10-17 16:44:35 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-10-17 16:44:36 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-10-17 16:44:37 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-10-17 16:44:38 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-10-17 16:44:39 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-10-17 16:44:40 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-10-17 16:44:40 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-10-17 16:44:41 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-10-17 16:44:42 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-10-17 16:44:43 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-10-17 16:44:43 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-10-17 16:44:44 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-10-17 16:44:45 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-10-17 16:44:46 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-10-17 16:44:47 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-10-17 16:44:47 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-10-17 16:44:48 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-10-17 16:44:48 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-10-17 16:44:52 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-10-17 16:44:56 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-10-17 16:44:58 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-17 16:45:31 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-10-17 16:45:34 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-10-17 16:45:35 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-10-17 16:45:40 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-10-17 16:45:40 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-10-17 16:45:41 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-10-17 16:45:42 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-10-17 16:48:04 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-17 16:48:13 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-17 16:48:25 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-10-17 16:48:48 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-10-17 16:48:55 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-10-17 16:49:04 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-10-17 16:49:13 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-10-17 16:49:25 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-10-17 16:50:20 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-17 16:50:28 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-10-17 16:50:30 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-10-17 16:50:30 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-17 16:52:26 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-17 16:52:49 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-10-17 16:52:57 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-10-17 16:53:01 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-10-17 16:53:10 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-10-17 16:53:15 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-10-17 16:53:24 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-10-17 16:54:09 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-17 16:54:17 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-17 16:54:18 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-10-17 16:54:19 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-17 16:54:19 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-10-17 16:57:03 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-17 16:57:13 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-17 16:57:17 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-10-17 16:57:23 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-10-17 16:57:28 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-10-17 16:57:36 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-10-17 16:57:42 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-10-17 16:58:53 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-17 16:59:05 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-17 16:59:17 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-10-17 16:59:18 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-17 16:59:25 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-10-17 16:59:26 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-17 16:59:27 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-10-17 16:59:27 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-17 16:59:56 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-10-17 17:00:00 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-10-17 17:00:01 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-10-17 17:00:10 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-17 17:00:12 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-17 17:00:12 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-10-17 17:00:19 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-10-17 17:00:22 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-10-17 17:00:26 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-10-17 17:14:15 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-17 17:14:21 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-10-17 17:14:59 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-10-20 21:49:09 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-10-20 21:49:14 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-10-20 21:49:18 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-10-20 21:49:23 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-10-20 21:49:26 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-10-20 21:49:29 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-10-20 21:49:31 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-20 21:49:33 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-20 21:49:34 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-10-22 19:09:15 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-22 19:09:18 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-22 19:09:21 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-22 19:09:21 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-10-22 19:09:23 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-22 19:09:24 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-10-22 19:09:25 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-22 19:09:25 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-10-22 19:09:28 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-22 19:09:29 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-10-22 19:09:31 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-22 19:09:31 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-10-22 19:09:34 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-22 19:09:36 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-10-22 19:09:37 | Alerte : Temps d attente excessif | Priorité : 2 | Icon : ⏳ | son : timeout_alert.wav 
+2025-10-22 19:09:39 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-10-22 19:09:39 | Alerte : Manoeuvre incorrecte | Priorité : 2 | Icon : 🔄 | son : maneuver_warning.wav 
+2025-10-22 19:09:46 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-22 19:09:46 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-10-28 11:07:37 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-28 11:07:45 | Alerte : Place indisponible | Priorité : 3 | Icon : ❌ | son : place_unavailable.wav 
+2025-10-28 11:07:49 | Alerte : Erreur de navigation | Priorité : 1 | Icon : 🧭 | son : navigation_error.wav 
+2025-10-28 11:07:52 | Alerte : Problème de communication | Priorité : 2 | Icon : 📡 | son : communication_lost.wav 
+2025-10-28 11:08:16 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
+2025-10-28 12:27:03 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-28 12:27:05 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-28 12:27:07 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-28 12:27:07 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-28 12:27:09 | Alerte : Obstacle détecté | Priorité : 1 | Icon : 🚧 | son : obstacle_alert.wav 
+2025-10-28 13:46:16 | Alerte : Fin de stationnement | Priorité : 3 | Icon : ✅ | son : parking_complete.wav 
